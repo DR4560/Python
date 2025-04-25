@@ -10,7 +10,7 @@ elizavetadudaeva1@gmail.com
 ## The courses list examples
 |Name  | Progress |
 | ------------- | ------------- |
-| Machine learning | the first principles|
+| Machine learning | 6/6 Done|
 | xx  | xx |
 
 
