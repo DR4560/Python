@@ -18,11 +18,11 @@ elizavetadudaeva1@gmail.com
 
 <pre>
 my-rep/
-├── README.md               # You are here
-├── .gitignore               # --
-├── Folder1_CourseName/                    # The course 1
-│   └── sample/          # the code course for study
-│       ├── filename.py        # file1
-│       ├── filename2.py             # file2
+├── README.md                 # You are here
+├── .gitignore                # --
+├── Folder1_CourseName/       # The course 1 main folder
+│   └── sample/               # the code course subfolder
+│       ├── filename.py       # file1
+│       ├── filename2.py      # file2
 ├── FolderN..
 </pre>
