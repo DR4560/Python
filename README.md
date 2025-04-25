@@ -1,6 +1,6 @@
-# System Analyst Test Task
+# PYTHON PROJECTS STUDY CASE
 test task keys&amp;sql&amp;databases&amp;selenium(optional)
-
+<img src="kott.jpg" width="224" height="225">
 ![KOT|224x225](kott.jpg)
 ## SOLUTION: 
 https://docs.google.com/document/d/1ljsjocn5xD9UWKvIqacJVT_BVj6vT5iYGszuxev4oF8/edit?usp=sharing
