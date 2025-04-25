@@ -15,7 +15,7 @@ elizavetadudaeva1@gmail.com
 
 
 ## The project folders structure
-```html
+html
 <pre>
 my-rep/
 ├── README.md               # You are here
@@ -25,4 +25,4 @@ my-rep/
 │       ├── filename.py        # file1
 │       ├── filename2.py             # file2
 ├── FolderN..
-</pre>```
+</pre>
