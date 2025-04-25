@@ -14,8 +14,10 @@ elizavetadudaeva1@gmail.com
 | xx  | xx |
 
 
-## The projects structure
-my-cli-app/
+## The project folders structure
+```html
+<pre>
+my-rep/
 ├── README.md               # You are here
 ├── .gitignore               # --
 ├── Folder1_CourseName/                    # The course 1
@@ -23,3 +25,4 @@ my-cli-app/
 │       ├── filename.py        # file1
 │       ├── filename2.py             # file2
 ├── FolderN..
+</pre>
