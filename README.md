@@ -15,7 +15,7 @@ elizavetadudaeva1@gmail.com
 
 
 ## The project folders structure
-html
+
 <pre>
 my-rep/
 ├── README.md               # You are here
